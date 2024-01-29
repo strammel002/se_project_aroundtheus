@@ -6,17 +6,16 @@
     <title>Around the U.S.</title>
     <link rel="stylesheet" href="./pages/index.css" />
   </head>
-  <body>
-    <div class="page">
-      <header class="header">
-        <img
-          src="./images/vector.svg"
-          alt="Around the US logo"
-          class="header__icon"
-        />
-      </header>
-
-      <div class="profile">
+  <body class="page">
+    <header class="header page__section">
+      <img
+        src="./images/vector.svg"
+        alt="Around the US logo"
+        class="header__icon"
+      />
+    </header>
+    <main class="content">
+      <section class="profile page__section">
         <div class="profile__rectangle">
           <img
             src="./images/jacques-cousteau.jpg"
@@ -31,62 +30,65 @@
         </div>
 
         <button class="profile__add-button"></button>
-      </div>
-      <div class="grid__container">
-        <div class="grid__rectangle">
-          <img src="images\yosemite.jpg" alt="Yosemite" class="grid__image" />
-          <div class="grid__info">
-            <p class="grid__caption">Yosemite Valley</p>
-            <button class="grid__group-button"></button>
-          </div>
-        </div>
-        <div class="grid__rectangle">
-          <img
-            src="images\lake-louise.jpg"
-            alt="Lake Louise"
-            class="grid__image"
-          />
-          <div class="grid__info">
-            <p class="grid__caption">Lake Louise</p>
-            <button class="grid__group-button"></button>
-          </div>
-        </div>
-        <div class="grid__rectangle">
-          <img
-            src="images\bald-mountains.jpg"
-            alt="Bald Mountains"
-            class="grid__image"
-          />
-          <div class="grid__info">
-            <p class="grid__caption">Bald Mountains</p>
-            <button class="grid__group-button"></button>
-          </div>
-        </div>
-        <div class="grid__rectangle">
-          <img src="images\latemar.jpg" alt="Latemar" class="grid__image" />
-          <div class="grid__info">
-            <p class="grid__caption">Latemar</p>
-            <button class="grid__group-button"></button>
-          </div>
-        </div>
-        <div class="grid__rectangle">
-          <img src="images\vanoise.jpg" alt="Vanoise" class="grid__image" />
-          <div class="grid__info">
-            <p class="grid__caption">Vanoise Nationa...</p>
-            <button class="grid__group-button"></button>
-          </div>
-        </div>
-        <div class="grid__rectangle">
-          <img src="images\lago.jpg" alt="Lago" class="grid__image" />
-          <div class="grid__info">
-            <p class="grid__caption">Lago di Braies</p>
-            <button class="grid__group-button"></button>
-          </div>
-        </div>
-      </div>
-      <footer class="footer">
-        <p class="footer__copyright">&copy; 2022 Around The U.S.</p>
-      </footer>
-    </div>
+      </section>
+
+      <section class="cards page__section">
+        <ul class="card__list">
+          <li class="card">
+            <img src="images\yosemite.jpg" alt="Yosemite" class="card__image" />
+            <div class="card__info">
+              <p class="card__caption">Yosemite Valley</p>
+              <button class="card__group-button"></button>
+            </div>
+          </li>
+          <li class="card">
+            <img
+              src="images\lake-louise.jpg"
+              alt="Lake Louise"
+              class="card__image"
+            />
+            <div class="card__info">
+              <p class="card__caption">Lake Louise</p>
+              <button class="card__group-button"></button>
+            </div>
+          </li>
+          <li class="card">
+            <img
+              src="images\bald-mountains.jpg"
+              alt="Bald Mountains"
+              class="card__image"
+            />
+            <div class="card__info">
+              <p class="card__caption">Bald Mountains</p>
+              <button class="card__group-button"></button>
+            </div>
+          </li>
+          <li class="card">
+            <img src="images\latemar.jpg" alt="Latemar" class="card__image" />
+            <div class="card__info">
+              <p class="card__caption">Latemar</p>
+              <button class="card__group-button"></button>
+            </div>
+          </li>
+          <li class="card">
+            <img src="images\vanoise.jpg" alt="Vanoise" class="card__image" />
+            <div class="card__info">
+              <p class="card__caption">Vanoise Nationa...</p>
+              <button class="card__group-button"></button>
+            </div>
+          </li>
+          <li class="card">
+            <img src="images\lago.jpg" alt="Lago" class="card__image" />
+            <div class="card__info">
+              <p class="card__caption">Lago di Braies</p>
+              <button class="card__group-button"></button>
+            </div>
+          </li>
+        </ul>
+      </section>
+    </main>
+    <footer class="footer page__section">
+      <p class="footer__copyright">&copy; 2022 Around The U.S.</p>
+    </footer>
   </body>
 </html>
