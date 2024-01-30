@@ -27,6 +27,9 @@ There were some concerns I had about the project which I will mention in the vid
 
 - The video tutorials could be updated and and streamlined so that students won't be confused on the best practices for their projects. Often the video tutorials contain content pertaining to previous iterations of the overall course program. 
 
+# Links
+
 [Link to video](https://drive.google.com/file/d/1mrCqzODCxVFPFifRuezqfue0yGR0cPNg/view?usp=drive_link)
+[Link to Page](https://strammel002.github.io/se_project_aroundtheus/)
 
 Overall I enjoyed this project and look foward to feedback on my project from the code reviewers. 
