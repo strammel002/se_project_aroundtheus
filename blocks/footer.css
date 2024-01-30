@@ -1,6 +1,8 @@
 .footer {
   margin: 67px auto 60px;
+  max-width: 880px;
 }
+
 .footer__copyright {
   color: #545454;
   font-family: "Inter", "Arial", sans-serif;
@@ -10,12 +12,9 @@
   line-height: normal;
   margin: 0;
 }
-@media screen and (max-width: 320px) {
-  .footer {
-    max-width: 88%;
-  }
+
  
-}
+
 @media screen and (max-width: 800px) {
   .footer {
     max-width: 88%;
