@@ -1,21 +1,32 @@
 # Project 3: Around The U.S.
 
-### Overview  
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)  
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+This is the third project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief in Figma.
+
+## Project features
+
+- Semantic HTML5
+- Flexbox
+- Positioning
+- Flat BEM file structure
+- Figma
+- Grid
+
+## Project Overview
+
+This project along with the course content was very concise and relevant to my aspirations as a software developer. I enjoyed learning the ease of using grids as well as accessing the project design brief in Figma. I have grown to appreciate the work that goes into making web content more user friendly and responsive across different devices. 
+
+This project was indeed a great summary of the skills needed for junior developing tasks in HTML and CSS. 
+
+## Plan on improving the project
+
+There were some concerns I had about the project which I will mention in the video linked below but here are some specific points. 
+- There are some vector images in Figma that are given the same name. It would be helpful to differentiate them so that students won't get confused. 
+
+- One of the vectors doesn't contain the <g> tag wrapped around the vector path that would allow for smooth resizing. Also I think the <g> tag would be a good topic for this project. 
+
+- The video tutorials could be updated and and streamlined so that students won't be confused on the best practices for their projects. Often the video tutorials contain content pertaining to previous iterations of the overall course program. 
+
+[Link to video](https://drive.google.com/file/d/1mrCqzODCxVFPFifRuezqfue0yGR0cPNg/view?usp=drive_link)
+
+Overall I enjoyed this project and look foward to feedback on my project from the code reviewers. 
