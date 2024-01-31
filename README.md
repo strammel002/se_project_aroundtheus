@@ -29,7 +29,8 @@ There were some concerns I had about the project which I will mention in the vid
 
 # Links
 
-[Link to video](https://drive.google.com/file/d/1mrCqzODCxVFPFifRuezqfue0yGR0cPNg/view?usp=drive_link)
+[Link to video](./se_project_aroundtheus_vid.mp4) 
+[Link to Video](https://drive.google.com/file/d/1mrCqzODCxVFPFifRuezqfue0yGR0cPNg/view?usp=sharing)
 [Link to Page](https://strammel002.github.io/se_project_aroundtheus/)
 
 Overall I enjoyed this project and look foward to feedback on my project from the code reviewers. 
